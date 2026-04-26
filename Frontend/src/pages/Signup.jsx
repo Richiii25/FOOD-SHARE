@@ -21,20 +21,7 @@ function Signup() {
 
   // Country codes list
   const countryCodes = [
-    { code: '+1', country: 'USA' },
-    { code: '+44', country: 'UK' },
     { code: '+91', country: 'India' },
-    { code: '+86', country: 'China' },
-    { code: '+81', country: 'Japan' },
-    { code: '+33', country: 'France' },
-    { code: '+49', country: 'Germany' },
-    { code: '+39', country: 'Italy' },
-    { code: '+34', country: 'Spain' },
-    { code: '+61', country: 'Australia' },
-    { code: '+1-416', country: 'Canada (Ontario)' },
-    { code: '+55', country: 'Brazil' },
-    { code: '+27', country: 'South Africa' },
-    { code: '+7', country: 'Russia' },
   ];
 
   // Validate phone number format
