@@ -12,11 +12,11 @@ function Dashboard() {
   };
 
   const handleDonate = () => {
-    alert("This would open a form to list your extra food, including photos, portion size, and pickup location.");
+    navigate('/donate-food');
   };
 
   const handleFind = () => {
-    alert("This would open a map or list showing available food in your area.");
+    navigate('/find-food');
   };
 
   return (
