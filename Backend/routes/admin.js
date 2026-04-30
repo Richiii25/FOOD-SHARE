@@ -116,7 +116,7 @@ router.get('/users/:userId', verifyAdmin, async (req, res) => {
         username: 'johndoe',
         email: 'john@example.com',
         password: '$2a$10$N9qo8uLOickgx2ZMRZoM.eDwCvxNeq3/tHt6IIfxWu4KoUuAydil.',
-        phone: '+1-555-0101',
+        phone: '+91-89555-01010',
         createdAt: '2026-04-20',
         lastLogin: '2026-04-25',
         status: 'active',
